@@ -1,4 +1,5 @@
 # Contador de cifras de 0
+# // division entera
 
 def contarCifras(numero):
     if numero // 10 !=0:
